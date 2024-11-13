@@ -38,3 +38,14 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
     });
 });
+
+
+
+//mobile menu
+document.addEventListener('DOMContentLoaded', () =>{
+    const hamburgerButton = document.querySelector('.hamburger-button');
+    const mobileMenu = document.querySelector('.mobile-menu');
+    hamburgerButton.addEventListener('click', (e) => {
+        mobileMenu.classList.toggle('active');
+    })
+})
