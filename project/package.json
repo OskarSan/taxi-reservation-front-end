@@ -16,7 +16,8 @@
     "express": "^4.21.1",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.7",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "tsc": "^2.0.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
