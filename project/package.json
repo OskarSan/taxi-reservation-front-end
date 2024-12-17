@@ -2,9 +2,11 @@
   "name": "project",
   "version": "1.0.0",
   "main": "app.ts",
+  "homepage": "https://oskarsan.github.io/Front-End-Course/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc-watch --onSuccess \"nodemon dist/app.js\""
+    "start": "tsc-watch --onSuccess \"nodemon dist/app.js\"",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +23,7 @@
     "@types/express": "^5.0.0",
     "@types/morgan": "^1.9.9",
     "@types/node": "^22.9.1",
+    "gh-pages": "^6.2.0",
     "tsc-watch": "^6.2.1"
   }
 }
