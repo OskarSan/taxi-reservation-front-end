@@ -1,3 +1,5 @@
+Code made by Oskar Sankila in collaboration with github copilot.
+
 Project work can be found from directory "project"
 
 task work can be found from directory "tasks"
