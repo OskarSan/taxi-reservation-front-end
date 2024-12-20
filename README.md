@@ -1,4 +1,4 @@
-Code made by Oskar Sankila in collaboration with github copilot.
+Code written by Oskar Sankila with influence by Traversy Media [](https://www.youtube.com/watch?v=HXYZxVbWkjc&t=0s)
 
 Project work can be found from directory "project"
 
