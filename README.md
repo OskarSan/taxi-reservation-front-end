@@ -8,6 +8,7 @@ Link to Learning diary [Google Docs](https://docs.google.com/document/d/1tp5sOP9
 
 Link to Demo Video [YouTube](https://youtu.be/WG5WhfMxEIM)
 
-Link to the deployed website [Github.io](https://oskarsan.github.io/Front-End-Course/)
+~~Link to the deployed website [Github.io](https://oskarsan.github.io/Front-End-Course/)~~ Not currently online
+
 
 **You** can run the code in localhost by downloading the repo and running "npm start" in the project folder
